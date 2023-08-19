@@ -1,6 +1,10 @@
 # Pointer
 **Pointer** is a Simple Lightweight Tool for Endpoint Discovery.
-![Pointer Logo](logo.gif)
+
+<div align="center">
+  <img src="logo.gif" alt="Pointer Logo">
+</div>
+
 
 This bash-powered tool is designed to make the process of hunting down endpoints a breeze. Say goodbye to the tedious manual search and hello to efficient, automated endpoint discovery.
 
