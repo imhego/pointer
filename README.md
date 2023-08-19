@@ -1,7 +1,10 @@
 # Pointer
 **Pointer** is a Simple Lightweight Tool for Endpoint Discovery.
+![Pointer Logo](logo.gif)
 
 This bash-powered tool is designed to make the process of hunting down endpoints a breeze. Say goodbye to the tedious manual search and hello to efficient, automated endpoint discovery.
+
+**Note:** The primary focus of Pointer is on uncovering hidden directories and files within the provided endpoint. This tool is optimized to aid in discovering those hard-to-spot paths that might otherwise go unnoticed. Happy endpoint hunting!
 
 ## Usage
 
