@@ -10,9 +10,6 @@ The Pointer tool is designed to work with endpoint URLs in the following format:
 Please keep the following points in mind when using the Pointer tool:
 
 - **Protocol Requirement:** Make sure to use either `http` or `https` as the protocol at the beginning of the endpoint URL.
-
-- **Trailing Slash:** It's important to have a trailing slash (`/`) at the end of the endpoint URL.
-
 For example:
 http://testphp.vulnweb.com/
 
