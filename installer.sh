@@ -1,9 +1,9 @@
 #!/bin/bash
-
+here=$(pwd)
 echo "Installing..."
 mkdir PointerTools; cd PointerTools
 
-sudo cp pointer.sh /usr/local/bin/pointer
+sudo cp $here/pointer.sh /usr/local/bin/pointer
 sudo apt-get install lolcat -y > /dev/null 2>&1
 go install -v github.com/tomnomnom/anew@latest > /dev/null 2>&1
 go install -v github.com/nytr0gen/deduplicate@latest > /dev/null 2>&1
